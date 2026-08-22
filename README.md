@@ -1,6 +1,6 @@
 # Customized Airthings BLE integration for Home Assistant
 
-This is the Home Assistant core integration for [Airthings BLE](https://github.com/home-assistant/core/tree/2025.3.4/homeassistant/components/airthings_ble) (core version 2025.12.4) with an additional 
+This is the Home Assistant core integration for [Airthings BLE](https://github.com/home-assistant/core/tree/2026.8.3/homeassistant/components/airthings_ble) (core version 2026.8.3) with an additional 
 retry mechanism as a workaround for connection failures.
 
 ## Usage
